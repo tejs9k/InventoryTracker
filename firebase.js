@@ -1,4 +1,4 @@
-// Import the functions you need from the SDKs you need.
+// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import {getFirestore} from "firebase/firestore";
 import { getAuth } from "firebase/auth";
@@ -8,14 +8,15 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_MYSUPERSECRETKEY,
-  authDomain: "inventory-management-2b388.firebaseapp.com",
-  projectId: "inventory-management-2b388",
-  storageBucket: "inventory-management-2b388.appspot.com",
-  messagingSenderId: "753369594214",
-  appId: "1:753369594214:web:bd585538efc186c01170a7",
-  measurementId: "G-H8CV8FV5ZT"
+  authDomain: "inventorywebapp-af16a.firebaseapp.com",
+  projectId: "inventorywebapp-af16a",
+  storageBucket: "inventorywebapp-af16a.firebasestorage.app",
+  messagingSenderId: "117769793912",
+  appId: "1:117769793912:web:025cf0464c53118134988d",
+  measurementId: "G-D7G9GYGPZY"
 };
 
 // Initialize Firebase
