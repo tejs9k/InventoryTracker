@@ -1,4 +1,4 @@
-// components/NavBar.js
+// components/NavBar.js.
 import Link from 'next/link';
 import { AppBar, Toolbar, Typography, Button } from '@mui/material';
 
