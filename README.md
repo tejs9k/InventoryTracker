@@ -25,7 +25,9 @@ You will land into a login page, if you are a new user then kindly click on: **S
 Once you signup, you will be automatically guided to the Inventory Page, where you can perform the below Simple operations:
 
 **Add new Item**
+
 **Remove Item**
+
 **Update Item**
 ![Screenshot (2488)](https://github.com/user-attachments/assets/716c1c93-263d-438f-869a-61f7b34fd4bb)
 
