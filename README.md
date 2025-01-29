@@ -1,4 +1,4 @@
-## Hi All, Welcome to the Inventory Management App
+## Hi All, Welcome to the Inventory Tracker App
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`] by using a React.js, Firebase, CSS.
 
